@@ -1,0 +1,13 @@
+Exemplo 1 -  Calcular a Nota(2notas) e a Frequencia(total aulas e faltas) de uma Aluno
+    1. ler a 1º Nota
+    2. ler a 2º Nota
+    3. Calcular a Média do Aluno
+    4. Mostrar a média do Aluno
+    5. ler o total de aulas da disciplina
+    6. ler o toal de faltas do Aluno
+    7. calcular a % de frequência
+    8. Mostrar a % de Frequencia
+    9. se media>=50 e frequência>=75 então
+        mostre aluno aprovado
+    10. senãoo entaõ
+        mostre aluno reprovado
